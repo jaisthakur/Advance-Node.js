@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "jsdoc": "npx jsdoc -d docs -r -R ./README.md ./src/"
+  },
+  "keywords": [],
+  "author": "Jai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "jest": "^26.6.3",
+    "mongoose": "^4.11.13",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  },
+  "description": ""
+}

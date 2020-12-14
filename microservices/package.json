@@ -1,0 +1,24 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/api.js",
+  "scripts": {
+    "test": "jest",
+    "jsdoc": "npx jsdoc -d docs -r -R ./README.md ./src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jest": "^26.6.3",
+    "node-fetch": "^2.2.0",
+    "node-localstorage": "^1.3.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  }
+}
