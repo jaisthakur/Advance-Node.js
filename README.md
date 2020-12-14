@@ -1,5 +1,5 @@
 # Advance-Node.js
-There are chat and ticket syste with microservices app, covering the below topics
+There are chat and ticket syste app running with microservices, covering the below topics
 
 # microservices
 - PM2 
