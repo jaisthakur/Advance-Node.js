@@ -1,7 +1,7 @@
 [
   {
     "_id": "5b805a00297ae6047030f2e0",
-    "name": "Rock Concert",
+    "name": "Suraj Pe Mangal Bhari",
     "houseSize": 100,
     "reserved": 15
   },
@@ -13,7 +13,7 @@
   },
   {
     "_id": "5b805a790cee1505a52bc75e",
-    "name": "Monster Truck Rally",
+    "name": "Chaar Sahibzaade",
     "houseSize": 500,
     "reserved": 500
   }
