@@ -1,5 +1,5 @@
 # Advance-Node.js
-There are chat and ticket system app running with microservices, covering the below topics
+There are Meetup app and learning - chat and ticket-system app also running with microservices, setup and covering the below topics in details
 
 # Meetup
 
