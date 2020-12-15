@@ -29,11 +29,12 @@ Setting Up a Deployment Environment
 - Protecting routes
 - Creating an image handling middleware
 - Tuning Express performance: Further measures
-- Add logging
+- Add logging - using Bunyan
 - Using the Node.js cluster module
 - Securing an Express application
 - Deployment and operation with PM2
 - Running behind a web server
+- Logging by using 
 
 
 # microservices
